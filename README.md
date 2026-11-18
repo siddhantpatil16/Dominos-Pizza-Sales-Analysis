@@ -35,3 +35,7 @@ This project analyzes Domino's pizza sales data using Microsoft Excel to identif
 ## 🎯 Project Objective
 
 To transform raw sales data into meaningful business insights and support data-driven decision-making through Excel dashboards and analysis.
+
+## 📸 Dashboard Preview
+
+![Dominos Pizza Sales Dashboard](Screenshot%202026-11-18%20183829.png)
